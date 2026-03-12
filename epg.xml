@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MyEPG">
+
+<channel id="beinsports1.tr">
+  <display-name>beIN Sports 1</display-name>
+</channel>
+
+<programme start="20260312190000 +0300" stop="20260312210000 +0300" channel="beinsports1.tr">
+  <title>Football Match</title>
+  <desc>Example sports broadcast</desc>
+</programme>
+
+</tv>
